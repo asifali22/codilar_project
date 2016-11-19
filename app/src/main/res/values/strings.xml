@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Codilar Project</string>
+    <string name="acceptValue">application/json</string>
+    <string name="acceptName">Accept</string>
+    <string name="error">Error!</string>
+    <string name="product_name">Product Name</string>
+    <string name="u20b9">₹</string>
+    <string name="specialPrice">Special Price</string>
+    <string name="entityId">entity_id</string>
+    <string name="name">name</string>
+    <string name="sku">sku</string>
+    <string name="image">image</string>
+    <string name="small_image">small_image</string>
+    <string name="thumbnail">thumbnail</string>
+    <string name="color">color</string>
+    <string name="type_id">type_id</string>
+    <string name="mpassignproduct_id">mpassignproduct_id</string>
+    <string name="seller_id">seller_id</string>
+    <string name="qty">qty</string>
+    <string name="price">price</string>
+    <string name="special_price">special_price</string>
+    <string name="special_price_form">special_price_form</string>
+    <string name="special_price_to">special_price_to</string>
+    <string name="offer">offer</string>
+    <string name="flag">flag</string>
+    <string name="product_condition">product_condition</string>
+    <string name="used_type">used_type</string>
+    <string name="config_options">config_options</string>
+    <string name="warranty_offered">warranty_offered</string>
+    <string name="NAME">NAME</string>
+    <string name="IMAGE">IMAGE</string>
+    <string name="SPECIAL_PRICE">SPECIAL_PRICE</string>
+    <string name="PRICE">PRICE</string>
+    <string name="QTY">QTY</string>
+    <string name="WARRENTY_OFFERED">WARRENTY_OFFERED</string>
+    <string name="not_applicable">N/A</string>
+    <string name="quantity">Quantity :</string>
+    <string name="warranty">Warranty :</string>
+    <string name="details">Details</string>
+    <string name="error_toast">Something went wrong, please try again later!</string>
+    <string name="service_unavailable">Service unavailable!</string>
+
+</resources>
