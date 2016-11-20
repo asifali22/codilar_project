@@ -16,8 +16,7 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDarkDetailed</item>
         <item name="colorAccent">@android:color/white</item>
         <item name="android:windowContentTransitions" tools:targetApi="lollipop">true</item>
-        <!--<item name="android:windowLightStatusBar" tools:targetApi="m">true</item>-->
-        <item name="android:windowTranslucentStatus" tools:targetApi="kitkat">true</item>
+
     </style>
 
 </resources>

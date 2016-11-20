@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity{
             setSupportActionBar(mToolbar);
 
         if (getSupportActionBar() != null)
-            getSupportActionBar().setTitle("MySky");
+            getSupportActionBar().setTitle("My Sky");
 
         mRecyclerView = (RecyclerView) findViewById(R.id.mainRecyclerView);
         mRecyclerView.setLayoutManager(new LinearLayoutManager(this));
